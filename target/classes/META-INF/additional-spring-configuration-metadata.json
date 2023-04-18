@@ -1,0 +1,162 @@
+{"properties": [
+  {
+    "name": "kafka",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka'"
+  },
+  {
+    "name": "properties",
+    "type": "java.lang.String",
+    "description": "A description for 'properties'"
+  },
+  {
+    "name": "producer",
+    "type": "java.lang.String",
+    "description": "A description for 'producer'"
+  },
+  {
+    "name": "security.protocol",
+    "type": "java.lang.String",
+    "description": "A description for 'security.protocol'"
+  },
+  {
+    "name": "bootstrap-servers",
+    "type": "java.lang.String",
+    "description": "A description for 'bootstrap-servers'"
+  },
+  {
+    "name": "value-serializer",
+    "type": "java.lang.String",
+    "description": "A description for 'value-serializer'"
+  },
+  {
+    "name": "key-serializer",
+    "type": "java.lang.String",
+    "description": "A description for 'key-serializer'"
+  },
+  {
+    "name": "server",
+    "type": "java.lang.String",
+    "description": "A description for 'server'"
+  },
+  {
+    "name": "error.whitelabel.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'error.whitelabel.enabled'"
+  },
+  {
+    "name": "enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'enabled'"
+  },
+  {
+    "name": "topics",
+    "type": "java.lang.String",
+    "description": "A description for 'topics'"
+  },
+  {
+    "name": "replyTo",
+    "type": "java.lang.String",
+    "description": "A description for 'replyTo'"
+  },
+  {
+    "name": "from",
+    "type": "java.lang.String",
+    "description": "A description for 'from'"
+  },
+  {
+    "name": "addresses",
+    "type": "java.lang.String",
+    "description": "A description for 'addresses'"
+  },
+  {
+    "name": "mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "mail.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.auth'"
+  },
+  {
+    "name": "port",
+    "type": "java.lang.String",
+    "description": "A description for 'port'"
+  },
+  {
+    "name": "host",
+    "type": "java.lang.String",
+    "description": "A description for 'host'"
+  },
+  {
+    "name": "consumer",
+    "type": "java.lang.String",
+    "description": "A description for 'consumer'"
+  },
+  {
+    "name": "group-id",
+    "type": "java.lang.String",
+    "description": "A description for 'group-id'"
+  },
+  {
+    "name": "value-deserializer",
+    "type": "java.lang.String",
+    "description": "A description for 'value-deserializer'"
+  },
+  {
+    "name": "key-deserializer",
+    "type": "java.lang.String",
+    "description": "A description for 'key-deserializer'"
+  },
+  {
+    "name": "auto-offset-reset",
+    "type": "java.lang.String",
+    "description": "A description for 'auto-offset-reset'"
+  },
+  {
+    "name": "spring.json.trusted.packages",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.json.trusted.packages'"
+  },
+  {
+    "name": "spring.deserializer.key.delegate.class",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.deserializer.key.delegate.class'"
+  },
+  {
+    "name": "spring.deserializer.value.delegate.class",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.deserializer.value.delegate.class'"
+  },
+  {
+    "name": "listener",
+    "type": "java.lang.String",
+    "description": "A description for 'listener'"
+  },
+  {
+    "name": "missing-topics-fatal",
+    "type": "java.lang.String",
+    "description": "A description for 'missing-topics-fatal'"
+  },
+  {
+    "name": "mail",
+    "type": "java.lang.String",
+    "description": "A description for 'mail'"
+  },
+  {
+    "name": "replyTo",
+    "type": "java.lang.String",
+    "description": "A description for 'replyTo'"
+  },
+  {
+    "name": "project-status-changed",
+    "type": "java.lang.String",
+    "description": "A description for 'project-status-changed'"
+  },
+  {
+    "name": "spring.mail",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail'"
+  }
+]}

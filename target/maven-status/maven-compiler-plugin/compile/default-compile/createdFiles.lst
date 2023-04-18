@@ -1,0 +1,10 @@
+com\example\demo\entity\User.class
+com\example\demo\config\KafkaConsumerConfig.class
+com\example\demo\serviceImpl\UserServiceImpl.class
+com\example\demo\OtimaUserApplication.class
+com\example\demo\service\UserService.class
+com\example\demo\config\KafkaProducerConfig.class
+com\example\demo\service\EmailServiceOptima.class
+com\example\demo\rest\UserRest.class
+com\example\demo\mailSender\EmailSenderServiceImpl.class
+com\example\demo\repository\UserRepository.class
